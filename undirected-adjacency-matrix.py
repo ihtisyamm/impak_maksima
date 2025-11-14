@@ -27,3 +27,10 @@ for i in range(V):
     for j in range(V):
         print(mat[i][j], end=' ')
     print()
+
+'''
+Adjacency Matrix Representation: 
+0 1 1 
+1 0 1 
+1 1 0 
+'''
